@@ -2,7 +2,10 @@ blank_issues_enabled: true
 contact_links:
   - name: Чукотские zakupki.gov.ru
     url: https://zakupki.gov.ru
+    about: Ссылка на список ожидающих подачи закупок Чукотского АО
   - name: Сахалинские zakupki.gov.ru
     url: https://zakupki.gov.ru
+    about: Ссылка на список ожидающих подачи закупок Сахалинской области
   - name: Камчатские zakupki.gov.ru
     url: https://zakupki.gov.ru
+    about: Ссылка на список ожидающих подачи закупок Камчатского края
