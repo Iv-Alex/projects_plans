@@ -1,10 +1,15 @@
 ---
-name: 'try it'
-about: 'yahooo'
-title: '[request]'
-url: ''
-date: '01/01/2021'
-task: 'do it'
-labels: ''
+name: 'Карточка закупки'
+about: 'Создание карточки торгов'
+title: '[Request]'
+labels: 'zakupka'
 assignees: ''
 ---
+
+Номер:
+Ссылка:
+Премет закупки:
+
+- [ ] Посчитать доходность
+-- [Request]
+
