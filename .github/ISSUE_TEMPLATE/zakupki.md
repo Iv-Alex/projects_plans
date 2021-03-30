@@ -1,7 +1,7 @@
 ---
 name: 'Карточка закупки'
 about: 'Создание карточки торгов'
-title: [DATE]
+title: <date>
 labels: 'zakupka'
 assignees: ''
 ---
@@ -12,3 +12,4 @@ assignees: ''
 
 - [ ] Посчитать доходность
 - [DATE]
+<author>
