@@ -1,7 +1,7 @@
 ---
 name: 'Карточка закупки'
 about: 'Создание карточки торгов'
-title: '[Request]'
+title: "[Request]"
 labels: 'zakupka'
 assignees: ''
 ---
