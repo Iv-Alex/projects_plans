@@ -1,7 +1,7 @@
 ---
 name: 'Карточка закупки'
 about: 'Создание карточки торгов'
-title: '[DATE]: [FEATURE NAME] [URL]'
+title: [DATE]
 labels: 'zakupka'
 assignees: ''
 ---
